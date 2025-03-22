@@ -1,32 +1,32 @@
 [
   {
-    "name": "恋爱",
-    "url": "https://love.bsgun.cn",
-    "icon": "fa fa-heart"
-  },
-  {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
-    "icon": "fa fa-blog"
+    "url": "https://www.aokaoka.top",
+    "icon": "fas fa-blog"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
+    "name": "云盘",
+    "url": "https://alist.aokaoka.top",
+    "icon": "fas fa-cloud "
   },
   {
     "name": "图床",
-    "url": "https://dev.ruom.top",
-    "icon": "fa fa-image"
+    "url": "https://tuchuang.aokaoka.top",
+    "icon": "fas fa-images"
   },
   {
-    "name": "封面",
-    "url": "https://cover.ruom.top",
-    "icon": "fa fa-panorama"
+    "name": "今日热榜",
+    "url": "https://hot.aokaoka.top",
+    "icon": "fas fa-list"
   },
   {
-    "name": "监测",
-    "url": "https://status.bsgun.cn",
-    "icon": "fa fa-chart-line"
+    "name": "访问记录",
+    "url": "https://umami.aokaoka.top/share/m1jcePepaVD5RyXM/aokaoka.top",
+    "icon": "fas fa-chart-line"
+  },
+  {
+    "name": "站点监测",
+    "url": "https://ping.aokaoka.top",
+    "icon": "fas fa-sitemap"
   }
 ]
